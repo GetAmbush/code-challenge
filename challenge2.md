@@ -66,3 +66,8 @@ Expected Output:
 1 3 N
 5 1 E
 ```
+##### Tips
+
+- The challenge is not to write something that solves the problem, but something that solves the problem while showcasing good code and what you know about writing good code.
+- Write the best code that you can, in the language you are most confortable with. Do not write it in a fancy language just to showcase how fast can you learn something.
+- You are free and encouraged to ask as many questions as you want to.
