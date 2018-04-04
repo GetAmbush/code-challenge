@@ -1,14 +1,14 @@
-# Bearch's Front-end Challenge
+# Deepx's Front-end Challenge
 
 ## Description
-The challenge is to build a quick UI for listing and marking github issues as favorites.
+The challenge is to build a quick UI for listing and marking github repositories as favorites.
 
 ## Requirements
 There are 4 requirements:
 - The user must be able to list issues
 - The user must be able to sort either by id or state
-- The user must be able to favorite an issue.
-- The user must be able to navigate to another screen, this screen will have a favorite list where it will list all the companies that he favorites.
+- The user must be able to favorite a repository.
+- The user must be able to navigate to another screen, this screen will have a favorite list where it will list all the repo repositories that she favorited.
 
 The design is up to you!
 
