@@ -1,4 +1,4 @@
-# Bearch's Challenge
+# Deepx's Challenge
 
 Hey! We want to take a look at your code skills, choose one of the problems and do your best!
 
