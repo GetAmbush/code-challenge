@@ -16,5 +16,11 @@ Please write the code as if it would go to production right after you commit it!
 
 Feel free to take as much time as you want and send us the code when you feel conformable with it!
 
+## FAQ
+
+* Github has no API for making issues as favorites. How can I implement it?
+
+You are right. You are not supposed to use the API for favoriting an issue on Github. You are supposed to keep an in memory structure that may be destroyed when the application is closed.  
+
 ## Resources:
 https://developer.github.com/v3/
