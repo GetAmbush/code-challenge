@@ -1,4 +1,4 @@
-# DeepX Backend Challenge
+# DeepX Code Challenge
 
 ## Description
 
